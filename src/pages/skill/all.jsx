@@ -6,7 +6,7 @@ import rectjs from "./images/logo192.png";
 import laravel from './images/laravel.png'
 import php from './images/php.png'
 import mysql from './images/mysql.png'
-import mogodb from './images/mogodb.png'
+
 import css from './images/css.png'
 import bootstrap from './images/bootstrap.jpg'
 
