@@ -1,0 +1,16 @@
+.orderlist{
+    background-color: #000000;
+    height: 50vh;
+    width: 200px;
+    color: white;
+    display: block;
+}
+@media (max-width:900px){
+    .orderlist{
+       display: none;
+    }
+}
+.me{
+    margin-left: 250px;
+    margin-top: 40px;
+}
