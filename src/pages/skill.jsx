@@ -29,6 +29,10 @@ function Skill() {
       name: "Design",
       path: "design",
     },
+    {
+      name: "Frontend",
+      path: "frontend",
+    },
   ];
 
   return (
