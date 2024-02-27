@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# portofile" 
+=======
+# MyPortifolio
+A portfolio is a set of pictures by someone, or photographs of examples of their work, which they use when entering competitions or applying for work.
+>>>>>>> 1dc5ee46e1aa90c53f3fcc19aeaf6b16a1fa33bd
