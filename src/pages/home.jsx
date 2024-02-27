@@ -40,7 +40,7 @@ function Home() {
                 loop
                 autoplay
   ></lottie-player>*/}
-              <img src="ano.jpg" alt=""className="rounded-full   h-screen w-4/6" />
+              <img src="ano.jpg" alt=""className="rounded-full   h-full w-4/6" />
               
               
               
