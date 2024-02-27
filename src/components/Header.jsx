@@ -31,7 +31,7 @@ function Header() {
       shadow-lg p-2 ${showMenu !== "md:hidden" && "md:flex-col  "}`}
       >
         <div className="flex justify-between w-full">
-          <h1 className="text-4xl font-bold">A S T U</h1>
+          <h1 className="text-4xl font-bold">R O B A</h1>
           <button
             className="hidden 2xl:hidden xl:hidden lg:hidden  md:flex"
             onClick={() => {
