@@ -25,7 +25,7 @@ function Header() {
   console.log(pathname);
 
   return (
-    <div className="">
+    <div >
       <div
         className={`flex justify-between bg-black text-white items-center 
       shadow-lg p-2 ${showMenu !== "md:hidden" && "md:flex-col  "}`}
