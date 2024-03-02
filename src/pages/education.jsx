@@ -38,6 +38,7 @@ function Education() {
             <div className="px-3 w-4/5 h-48  rounded-xl bg-slate-700 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ...">
               <h1 className="text-white text-2xl">Newtorking</h1>
               <p>
+                <link src="https://coursera.org/share/f336e92e91ccf2fe4f3776e69a6446e1"></link>
                 I am certfied in newtorking acedamy within two year in Adama
                 Science and Technology University. As a third-year student, I
                 have already completed a significant portion of the program.
