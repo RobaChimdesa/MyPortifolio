@@ -35,7 +35,7 @@ function Education() {
             <h1 className="text-white text-4xl mx-40 mt-2 mb-9 font-bold font-serif">
               certificates
             </h1>
-            <div className="px-3 w-4/5 h-48  rounded-xl bg-slate-700 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ...">
+            <div className="px-3 w-4/5 h-68  rounded-xl bg-slate-700 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ...">
                <h1 className="text-white text-xl">Supervised Machine Learning: Regression and Classification</h1>
                 <a href="coursera.png" target="_blank">
                 <img src="coursera.png" alt=""className="w-full h-72" />
