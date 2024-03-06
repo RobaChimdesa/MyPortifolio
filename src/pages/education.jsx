@@ -26,7 +26,7 @@ function Education() {
             <p>
               I am currently attending a five-year computer science and
               engineering course at Adama Science and Technology University. As
-              a fourth-year student, I have already completed a significant
+              a 4'th-year student, I have already completed a significant
               portion of the program.
             </p>
           </div>
