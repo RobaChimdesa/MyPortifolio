@@ -17,7 +17,7 @@ function Footer() {
         
         <h1 className="text-center"> <Link><FacebookIcon/></Link> </h1>
         
-        <h1> <Link href="https://t.me/Anoo_Chim"><TelegramIcon/></Link></h1>
+        <h1> <Link ><a href="https://t.me/Anoo_Chim"></a><TelegramIcon/></Link></h1>
         
         <h1 ><Link><YouTubeIcon/></Link></h1>
         
