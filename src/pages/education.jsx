@@ -43,6 +43,19 @@ function Education() {
               
             </div>
             </div>
+{/* new feature */}
+          <div className="mt-24 mb-0 px-3 w-4/5 h-60 rounded-xl bg-slate-700 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ...">
+              <h1 className="text-white text-xl">React Js</h1>
+              
+                
+                <a href="reactjs.jpg" target="_blank">
+                <img src="reactjs.jpg" alt="react"className="w-full h-72" />
+                </a>
+              
+              
+            </div>
+          
+          
         </div>
       </div>
     
